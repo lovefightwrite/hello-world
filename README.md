@@ -1,11 +1,4 @@
 # hello-world
 #My first repository - this is totally crackers!
-<html>
-  <head><title>Alex Tucker's Hello World</title></head>
-  <header>
-    <div class="navbar" style="background-color: blue">
-      Hello, world.
-    </div>
-  </header>
-    
-</html>
+
+My name is Alex - I'm a marketer and writer. I create content for your brain while doing my best to dodge the pain.
